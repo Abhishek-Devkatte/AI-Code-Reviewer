@@ -4,6 +4,10 @@
 
 An AI-powered code review application that analyzes your code for runtime errors, performance issues, security vulnerabilities, and anti-patterns — powered by the Groq API.
 
+
+🔗 **Live App:** 🌐 https://ai-code-reviewer-228e.onrender.com
+
+
 Paste your code, get an instant, structured review — no setup, no waiting for a human reviewer.
 
 ## Features
